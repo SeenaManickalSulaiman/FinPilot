@@ -1,6 +1,3 @@
-# FinPilot
-Your AI-powered financial assistant.
-
 ---
 title: FinPilot
 emoji: 👀
