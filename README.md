@@ -30,3 +30,10 @@ FinPilot addresses these challenges by:
 * Applying advanced analytics and LLM capabilities to provide contextual insights
 * Offering natural language interaction, removing technical barriers for non-expert users
 * Integrating tools like Tavily search, yFinance, and custom LLM prompts to enhance reasoning
+
+Applications
+* Personal Finance Guidance: Budget planning, savings tips, debt management strategies.
+* Investment Advice: Sector trends, stock insights, portfolio diversification tips (non-financial-advisory disclaimer applies).
+* Market Research Tool: Real-time market sentiment, stock comparisons, commodity updates.
+* Educational Use: Learn financial concepts interactively (e.g., 50/30/20 rule, ETF vs. stock).
+* Enterprise Use: Can be extended for financial advisors, banks, or fintech firms as a white-labeled chatbot solution.
