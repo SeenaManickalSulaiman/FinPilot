@@ -31,7 +31,11 @@ FinPilot addresses these challenges by:
 * Offering natural language interaction, removing technical barriers for non-expert users
 * Integrating tools like Tavily search, yFinance, and custom LLM prompts to enhance reasoning
 
-Applications
+## Architecture
+![image](https://github.com/user-attachments/assets/506c21a2-2b04-424a-936a-6277f8ac6d64)
+
+
+## Applications
 * Personal Finance Guidance: Budget planning, savings tips, debt management strategies.
 * Investment Advice: Sector trends, stock insights, portfolio diversification tips (non-financial-advisory disclaimer applies).
 * Market Research Tool: Real-time market sentiment, stock comparisons, commodity updates.
